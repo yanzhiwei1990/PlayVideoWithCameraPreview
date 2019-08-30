@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Camera2PreviewDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, EX07_14</string>
+    <string name="str_play">播放影片中</string>
+    <string name="str_pause">影片暫停(再按一次繼續)</string>
+    <string name="str_stop">播放器停止</string>
+    <string name="str_err_nosd">未發現安裝SD記憶卡</string>
+</resources>
